@@ -1,0 +1,8 @@
+package com.jspiders.package1;
+
+public class MySqlConnector1 {
+	public MySqlConnector1()
+	{
+		System.out.println("MySqlConnector1 object created");
+	}
+}
